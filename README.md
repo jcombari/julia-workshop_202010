@@ -19,7 +19,11 @@ http://mcd.eventos.cimat.mx/node/1534
 
 Facebook live
 ```shell
-[Facebook live](https://www.facebook.com/groups/1118217978549782)
+
+* [Facebook live](https://www.facebook.com/groups/1118217978549782)
+
+* [Trello del curso](https://trello.com/b/fIrzTQYy/ds-bog-3)
+
 ```
 
 ## Syllabus

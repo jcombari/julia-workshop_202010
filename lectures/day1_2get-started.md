@@ -29,6 +29,11 @@ Taken from [DrWatson workflow tutorial](https://juliadynamics.github.io/DrWatson
 2. In julia:
 
 ```julia
+
+julia> ]
+
+pkg> add DrWatson
+
 julia> using DrWatson
 
 julia> initialize_project("Example"; authors="CSL")

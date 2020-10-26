@@ -7,7 +7,7 @@ Let's start by looking at the REPL and try:
 - `?` to open help mode
 - `\beta+TAB` for math symbols
 - `<backspace>` return to Julia mode
-
+* Para añadir un paquete de R, podemos utilizar Rcall
 
 ## Setting up your project
 

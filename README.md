@@ -13,6 +13,15 @@ This repository contains the notes of the Julia workshop taught at CIMAT in Octo
 git clone https://github.com/crsl4/julia-workshop.git
 ```
 
+```shell
+http://mcd.eventos.cimat.mx/node/1534
+```
+
+Facebook live
+```shell
+https://www.facebook.com/groups/1118217978549782
+```
+
 ## Syllabus
 
 ### Day 1

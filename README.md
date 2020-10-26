@@ -19,7 +19,7 @@ http://mcd.eventos.cimat.mx/node/1534
 
 Facebook live
 ```shell
-https://www.facebook.com/groups/1118217978549782
+https://www.facebook.com/groups/1118217978549782[https://www.facebook.com/groups/1118217978549782]
 ```
 
 ## Syllabus

@@ -50,6 +50,7 @@ Load the data:
 julia> sleepstudy = DataFrame(MixedModels.dataset(:sleepstudy));
 julia> describe(sleepstudy)
 
+#Las observaciones no son independientes, los datos son balanceados, cada individuo tiene 10 observaciones es decir los datos están balanceados y están completos
 3×8 DataFrame
 │ Row │ variable │ mean    │ min     │ median  │ max     │ nunique │ nmissing │ eltype   │
 │     │ Symbol   │ Union…  │ Any     │ Union…  │ Any     │ Union…  │ Nothing  │ DataType │

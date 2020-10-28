@@ -30,6 +30,17 @@ You can also write the commands in a `.jl` file in the `scripts` subfolder. More
 
 ```julia
 using DataFrames, JellyMe4, MixedModels, RCall
+
+if appear ERROR: Failed to precompile JellyMe4 [19ac8677-9a15-4623-9afd-84acc6165ce7] 
+
+you must
+
+open R and write R.home()
+
+copy and paste
+
+ENV["R_HOME"]="C:/Users/XXX/.conda/envs/Rproject/Lib/R"
+
 ```
 
 ### Data from a study on sleep deprivation
